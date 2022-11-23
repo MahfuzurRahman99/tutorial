@@ -1,0 +1,20 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+
+.topheader-bg{
+  background-color: f4f4f2;
+  width: 100%;
+
+}
+.topheader-bg li{
+  list-style: none;
+  display: inline-block;
+}
+
+.topheader-bg a{
+  text-decoration: none;
+}
+
